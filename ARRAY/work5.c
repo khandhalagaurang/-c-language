@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int a[50],b[50],c[50],m,n,i,,j=0,total;
+    int a[50],b[50],c[50],m,n,i,j=0,total;
     printf("enter size of array 1:");
     scanf("%d",&m);
 
