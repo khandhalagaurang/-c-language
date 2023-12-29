@@ -14,7 +14,7 @@ int main(){
       if( largest < a[i] ) 
          largest = a[i];
    }
-   printf("argest number of array %d",largest);
+   printf("largest number of array %d",largest);
 
     
     
