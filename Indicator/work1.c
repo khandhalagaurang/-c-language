@@ -1,9 +1,8 @@
 // swap two numbers using pointers
 #include<stdio.h>                  
 void main(){
-    int a,b,c;
-    int *ptr1, *ptr2;
-
+    int a,b,c,*ptr1,*ptr2;
+    
     printf("enter two number : ");
     scanf("%d %d",&a,&b);
 
