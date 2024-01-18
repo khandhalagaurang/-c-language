@@ -14,7 +14,7 @@ void main(){
     printf("\n after swaping");
     printf("\n a is = %d",a);
     printf("\n b is = %d",b);
-}0
+}
 void swap(int *x , int *y){
     int z;
     z=*x;
