@@ -4,7 +4,7 @@ void main(){
     int a,b,c;
     int *ptr1, *ptr2;
 
-    printf("enter two num ");
+    printf("enter two number : ");
     scanf("%d %d",&a,&b);
 
     printf("\n a is  %d",a);
@@ -18,7 +18,7 @@ void main(){
     *ptr2 = c ;
 
     
-    printf("\n after swaping");
+    printf("\n after swaping number :");
     printf("\n a is = %d",a);
     printf("\n b is = %d",b);
 }
